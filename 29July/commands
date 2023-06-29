@@ -1,0 +1,17 @@
+1316  git add .
+ 1317  git status 
+ 1318  git commit -m "First commit"
+ 1319  git push 
+ 1320  git add .
+ 1321  git status 
+ 1322  ls 
+ 1323  cd apache2
+ 1324  touch index.html
+ 1325  cd ..
+ 1326  git add . 
+ 1327  git status 
+ 1328  git commit -m "seconds"
+ 1329  git push 
+ 1330  git checkout -b jassi/1
+ 1331  git status 
+ 1332  git branch 
